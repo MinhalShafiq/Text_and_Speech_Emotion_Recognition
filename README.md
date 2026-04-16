@@ -1,4 +1,4 @@
-# Affective Computing Project
+# Text and Speech Emotion Recognition
 
 ## Description
 This project leverages affective computing principles to analyze human emotions and develop applications that can respond to users' emotional states. It aims to create a smarter interaction between users and computers based on emotional feedback.
